@@ -1,5 +1,8 @@
-.
-├── README-tree.md
+## Project Structure
+
+```
+. (backend)
+├── README.md
 ├── apps
 │   ├── orders
 │   │   ├── __init__.py
@@ -50,3 +53,4 @@
 └── requirements.txt
 
 12 directories, 38 files
+```
